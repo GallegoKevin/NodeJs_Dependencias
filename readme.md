@@ -18,7 +18,8 @@
     - nvm install 18
 6. Establecer el nodejs a usar con `nvm use 20.14.0 `
 
-**`Para establecer como predeterminado usar:` `nvm alias default 20.14.0`**
+- **Para establecer como predeterminado usar: `nvm alias default 20.14.0`**
+- **Para verificar la version de nodejs establecido en el sistema usar: `node -v`**
 
 
 ## Importancia de **NVM (Node Version Manager):** 
