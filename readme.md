@@ -1,4 +1,4 @@
-# NODEJS
+# NODEJS - NVM
 
 ![Imagen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd9-KQ7NFQJ5y62EJw8SMe-Ymn07hpdsSCvw&s)
 
@@ -40,7 +40,7 @@ Porque:
 
 ## ¿Por qué no usar solo Node.js (solo 1 version)?
 
- **Gestión de versione / flexibilidad**: Node.js por sí solo no facilita el uso de múltiples versiones simultáneamente, lo que puede ser un problema al trabajar en varios proyectos con diferentes requisitos.
+- **Gestión de versione / flexibilidad**: Node.js por sí solo no facilita el uso de múltiples versiones simultáneamente, lo que puede ser un problema al trabajar en varios proyectos con diferentes requisitos.
 - **Compatibilidad de proyectos**: Cambiar de versión de Node.js implica reinstalaciones manuales que pueden causar problemas de compatibilidad en proyectos existentes.
 
 
