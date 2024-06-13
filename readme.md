@@ -52,6 +52,7 @@ Porque:
 ```
 npm init
 ```
+
 2. Instalación de dependencias:
 
 - **Instalación de desarrollo:**
@@ -61,6 +62,10 @@ Solo va existir en el ambito de desarrollo
 ```
 npm install -D axios
 ```
+```
+npm install -D webpack
+
+ ```
 
 - **Instalación de producción**
 
@@ -69,6 +74,9 @@ Va irse a produccion
 ```
 npm install react-dom
 ```
+```
+npm install lodash
+```
 
 - **Instalación Global:**
 
@@ -76,7 +84,12 @@ Instalaciones en todo el sistema operativo (va de la mano de la version de NODEJ
 
 ```
 npm install --global nodemon
+```
+```
 npm install -g http-server
+```
+```
+npm install -g gulp
 ```
 
 **Comando para eliminar la 'carpeta node_modules':**

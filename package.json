@@ -9,9 +9,11 @@
   "author": "Kevin",
   "license": "ISC",
   "devDependencies": {
-    "axios": "^1.7.2"
+    "axios": "^1.7.2",
+    "webpack": "^5.92.0"
   },
   "dependencies": {
+    "lodash": "^4.17.21",
     "react-dom": "^18.3.1"
   }
 }
