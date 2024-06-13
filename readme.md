@@ -97,3 +97,8 @@ Añadir la siguiente línea al archivo:
 ```
 node_modules/
 ```
+
+**Comando para ejecutar un archivo javascript con nodejs:**
+```
+node [archivo.js]
+```
