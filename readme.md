@@ -1,6 +1,6 @@
 # NODEJS - NVM
 
-![Imagen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd9-KQ7NFQJ5y62EJw8SMe-Ymn07hpdsSCvw&s)
+![Imagen](https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FAHcZ1%2FbtrUbrWNgvV%2FBlh1GeQnQos738B5XKyUnK%2Fimg.png)
 
 
 ## Instalacion de nvm - Windows
