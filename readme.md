@@ -1,5 +1,8 @@
 # NODEJS
 
+![Imagen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd9-KQ7NFQJ5y62EJw8SMe-Ymn07hpdsSCvw&s)
+
+
 ## Instalacion de nvm - Windows
 
 1. Descargar nvm en el siguiente enlace:   
@@ -41,7 +44,7 @@ Porque:
 - **Compatibilidad de proyectos**: Cambiar de versión de Node.js implica reinstalaciones manuales que pueden causar problemas de compatibilidad en proyectos existentes.
 
 
-## Proyecto con Nodejs
+## Proyecto con Nodejs:
 
 
 1. Inicializar proyecto
@@ -73,4 +76,24 @@ Instalaciones en todo el sistema operativo (va de la mano de la version de NODEJ
 ```
 npm install --global nodemon
 npm install -g http-server
+```
+
+**Comando para eliminar la 'carpeta node_modules':**
+
+```
+rm -rf node_modules
+```
+
+**Crear archivo .gitignore:**
+
+```
+touch .gitignore
+```
+
+**Editar archivo .gitignore y guardar:**
+
+Añadir la siguiente línea al archivo:
+
+```
+node_modules/
 ```
